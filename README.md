@@ -1,5 +1,5 @@
-# Sales-cost-analysis
-sales cost analysis for supermarkets in Turkey.
+# Sales analysis
+sales analysis for supermarkets in Turkey.
 
 
 
